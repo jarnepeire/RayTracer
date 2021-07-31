@@ -1,0 +1,27 @@
+A quick overview of implementations in the raytracer project:
+- Week 1-5 assignments
+- Multithreaded rendering
+- SceneManager system (makes it possible to swap between scenes in realtime)
+
+The key bind inputs: (you can find these printed in the console at the start too)
+
++--------------------------------------+-----+
+| Display KeyBind Information          |  I  |	
++--------------------------------------+-----+	
+| Take Screenshot                      |  X  |
++--------------------------------------+-----+
+| Enable / Disable Directional Light   |  J  |	
++--------------------------------------+-----+	
+| Enable / Disable Left Point Light    |  K  |	
++--------------------------------------+-----+
+| Enable / Disable Right Point Light   |  L  |	
++--------------------------------------+-----+	
+| Enable / Disable Hard Shadows        |  Z  |	
++--------------------------------------+-----+	
+| Toggle between image rendering       |  T  |
+|  (BRDF, Irradiance, All)             |     |	
++--------------------------------------+-----+	
+| Previous Scene                       |  F1 |
++--------------------------------------+-----+
+| Next Scene                           |  F2 |
++--------------------------------------+-----+	
