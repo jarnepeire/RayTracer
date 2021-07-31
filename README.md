@@ -23,6 +23,7 @@ Though with all the progress, this Ray Tracer can definitely be expanded upon in
 
 ## Most Interesting Code Snippets
 [Pixel Loop and Pixel Shading](https://github.com/jarnepeire/RayTracer/blob/main/source/ERenderer.cpp)
+
 [BRDF's](https://github.com/jarnepeire/RayTracer/blob/main/source/BRDF.cpp)
 
 ## Contributors
