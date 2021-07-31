@@ -1,4 +1,4 @@
-# Ray-Tracer
+# Multithreaded Software Ray Tracer
 ![MainScene](/Screenshots/MainScene_Animated.gif)
 
 ## Description
